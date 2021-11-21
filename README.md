@@ -1,3 +1,3 @@
 # MERN introduction
 
-slide https://yubintw.github.io/MERN_introduction/export/index.html
+slide https://yubintw.github.io/MERN-introduction/export/index.html
